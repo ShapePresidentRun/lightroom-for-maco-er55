@@ -1,4 +1,4 @@
-
+Enhance Lightroom for macOS with advanced Plugin for Lightroom for macOS - social-media-export and video-trimming, the #1 plugin. Includes social-media-export and video-trimming
 
 
 
